@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://images.madeiramadeira.com.br/product/images/22778661-papel-de-parede-adesivo-3d-textura-geometrica-m03r015-3624-1-600x584.jpg'); 
+    font-family: Arial;
+    background-size: 300px 500px;
+  }
+  
+  .menu { 
+    background-color: #808080;   
+  }
+  
+  .menu li {
+    list-style: none;
+   
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  
+  }
+  .site-subtitle,
+  .site-title {
+    color: white; 
+    text-align: center;
+  }
